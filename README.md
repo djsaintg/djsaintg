@@ -54,7 +54,7 @@ Node.js ████████░░░░  Shell Scripting
 
 ## 💖 Support my Work!
 
-[![Sponsor](https://raw.githubusercontent.com/djsaintg/A-Highland-Song-Interactive-Map/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
+[![Sponsor](https://raw.githubusercontent.com/djsaintg/djsaintg/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
 ---
 
 <p align="center">
