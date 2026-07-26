@@ -6,15 +6,24 @@ I build interactive tools and creative web experiences. My work blends clean cod
 
 ---
 
-### 🚀 Featured Project
+### 📚 Library
 
 **[🎮 A Highland Song — Interactive Map](https://github.com/djsaintg/A-Highland-Song-Interactive-Map)**
-*Unofficial fan tool for the game by inkle Ltd.*
-- 🗺️ Interactive peak travel map with blessings & pathfinding
-- ⚛️ Built with **React · Vite · Tailwind CSS**
-- 📜 MIT Licensed
+Unofficial fan tool for the game by inkle Ltd. Visualises all 38 peaks across 10 layers with blessings, directional routes, and a built-in BFS pathfinder.
+*v1.0.0 — Stable*
+`React` · `Vite` · `Tailwind CSS` · `MIT`
+🌐 [Live Demo](https://djsaintg.github.io/A-Highland-Song-Interactive-Map/)
 
----
+**[⛰️ ForgeBound](https://github.com/djsaintg/ForgeBound)**
+A single-player action-RPG that lives in one HTML file. Chop, mine, fish, smelt and smith — no servers, no accounts, no signal. Built for dead zones.
+*v0.3.0 — Gamma*
+`React` · `TypeScript` · `Canvas` · `MIT`
+
+**[📜 RS3 Complete Guide](https://github.com/djsaintg/RS3-Companion-App)**
+Offline-first companion app for RuneScape 3. 29 skill guides, live GE prices, multi-character profiles, and 332 quests — all in a single window.
+*v1.0.0 — Stable*
+`React` · `Vite` · `Tailwind CSS` · `MIT`
+🌐 [Live Demo](https://djsaintg.github.io/RS3-Companion-App/)
 
 ### 🛠️ Tech Stack
 
