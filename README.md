@@ -43,9 +43,9 @@ Node.js ████████░░░░  Shell Scripting
 
 ---
 
-### ☕ Support My Work
+## 💖 Support my Work!
 
-<a href="https://www.buymeacoffee.com/djsaintg"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=djsaintg&button_colour=5F7FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
+[![Sponsor](https://raw.githubusercontent.com/djsaintg/A-Highland-Song-Interactive-Map/main/sponsor.svg)](https://buymeacoffee.com/djsaintg)
 ---
 
 <p align="center">
