@@ -37,7 +37,8 @@ Files hosted in this repo that other repos link to directly.
 - [x] **Library section** in profile README — every repo listed with version, tags & live demo
 - [x] **GitHub Pages demos** — Highland Song, RS3, Spiritfarer & Hogwarts Legacy live at `djsaintg.github.io/...`
 - [x] **`.nojekyll`** in Highland Song so Pages serves raw files cleanly
-- [x] **Library expanded to all six pinned repos**, grouped into Maps · Companions · Games · Linux Tools
+- [x] **Library expanded to all six pinned repos**, grouped into Maps · Companions · Mods · Linux Tools
+- [x] **ForgeBound unpinned** while it matures; **Objective Tracker** (Hytale mod) takes its Library slot
 - [x] **"🎯 Currently" refreshed** to match what's actually on the bench
 
 ## 🔭 Planned

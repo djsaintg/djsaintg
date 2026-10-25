@@ -2,7 +2,7 @@
 
 > 🎧 **Developer by craft, DJ by soul, saint by name.**
 
-I build offline-first companion apps, interactive maps and small games: single-file tools that work without servers, accounts or signal. Clean code with bold design, front-end engineering with audio-visual energy.
+I build offline-first companion apps, interactive maps, game mods and Linux tools that just work: no accounts, no clutter, no signal required. Clean code with bold design, front-end engineering with audio-visual energy.
 
 ---
 
@@ -36,12 +36,13 @@ Offline-first companion for Hogwarts Legacy. Story-to-free-roam roadmap, 36-poin
 `React` · `TypeScript` · `Tailwind CSS` · `MIT`
 🌐 [Live Demo](https://djsaintg.github.io/Hogwarts-Legacy-Guide-of-Requirement/)
 
-#### ⚔️ Games
+#### 🧩 Mods
 
-**[⛰️ ForgeBound](https://github.com/djsaintg/ForgeBound)**
-A single-player skilling RPG that lives in one HTML file. Chop, mine, fish, smelt and smith across a procedural valley. No servers, no accounts, no signal. Built for dead zones.
-*v0.3.2 — Gamma*
-`React` · `TypeScript` · `Canvas` · `MIT`
+**[🧭 Objective Tracker](https://github.com/djsaintg/Objective-Tracker)**
+A Zygor-style survival guide HUD for Hytale. 40 steps across 8 chapters, from your first sticks to an Adamantite Pickaxe, with live auto-completion and a waypoint arrow that points you at what you need next.
+*v0.2.0 — Stable*
+`Java` · `Hytale Plugin` · `Gradle` · `MIT`
+📦 [Download](https://github.com/djsaintg/Objective-Tracker/releases/latest)
 
 #### 🐧 Linux Tools
 
@@ -58,6 +59,7 @@ Fills your non-Steam library with proper cover art from SteamGridDB. Careful nam
 React   ██████████░░  TypeScript
 Vite    █████████░░░  Tailwind CSS
 Python  ████████░░░░  Shell Scripting
+Java    ███████░░░░░  Gradle
 ```
 
 ---
