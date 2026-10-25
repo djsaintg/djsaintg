@@ -22,7 +22,7 @@ Files hosted in this repo that other repos link to directly.
 
 | Asset | Path | Referenced by | Status |
 |---|---|---|---|
-| Animated sponsor button | `sponsor.svg` | Profile · Highland Song · ForgeBound · RS3 | ✅ Live |
+| Animated sponsor button | `sponsor.svg` | Profile · Highland Song · ForgeBound · RS3 · Hogwarts Legacy | ✅ Live |
 
 **Adding a new centralized asset:**
 1. Create the file in this repo's root
@@ -35,15 +35,16 @@ Files hosted in this repo that other repos link to directly.
 
 - [x] **Centralized sponsor button** — animated Terminal SVG, single source of truth
 - [x] **Library section** in profile README — every repo listed with version, tags & live demo
-- [x] **GitHub Pages demos** — Highland Song & RS3 live at `djsaintg.github.io/...`
+- [x] **GitHub Pages demos** — Highland Song, RS3, Spiritfarer & Hogwarts Legacy live at `djsaintg.github.io/...`
 - [x] **`.nojekyll`** in Highland Song so Pages serves raw files cleanly
+- [x] **Library expanded to all six pinned repos**, grouped into Maps · Companions · Games · Linux Tools
+- [x] **"🎯 Currently" refreshed** to match what's actually on the bench
 
 ## 🔭 Planned
 
 ### Profile
-- [ ] Keep Library version lines in sync when repos ship (ForgeBound → `v0.3.1`, etc.)
-- [ ] Add a 4th Library entry when the next project lands
-- [ ] Refresh "🎯 Currently" to reflect whatever's actually on the bench
+- [ ] Keep Library version lines in sync when repos ship
+- [ ] Add the next Library entry (under the right category) when the next project lands
 - [ ] Consider a contact/social section (Twitter, Discord, email)
 
 ### New centralized assets (the `sponsor.svg` pattern)
@@ -52,9 +53,8 @@ Files hosted in this repo that other repos link to directly.
 - [ ] **Standard support heading** — align `## 💖 Support this Project` across all repos
 
 ### Per-repo polish
-- [ ] **ForgeBound live demo** — deploy `dist/index.html` to Pages, add the 🌐 link to Library
 - [ ] **Social preview images** for all repos (the ForgeBound banner is ready to reuse)
-- [ ] **Website field** in each repo's About sidebar → its Pages demo
+- [ ] **Website field** in each repo's About sidebar → its Pages demo (Spiritfarer & Hogwarts Legacy done)
 - [ ] **Author attribution block** in Highland Song & ForgeBound (RS3 already has one)
 
 ### Ecosystem
