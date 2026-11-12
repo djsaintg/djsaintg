@@ -23,6 +23,8 @@ Files hosted in this repo that other repos link to directly.
 | Asset | Path | Referenced by | Status |
 |---|---|---|---|
 | Animated sponsor button | `sponsor.svg` | Profile · Highland Song · ForgeBound · RS3 · Hogwarts Legacy | ✅ Live |
+| Profile avatar (source + 1024px) | `avatar.svg` · `avatar.png` | GitHub profile picture | ✅ Live |
+| Stats cards (auto-generated daily) | `stats/overview.svg` · `stats/languages.svg` | Profile README | ✅ Live |
 
 **Adding a new centralized asset:**
 1. Create the file in this repo's root
@@ -40,11 +42,15 @@ Files hosted in this repo that other repos link to directly.
 - [x] **Library expanded to all six pinned repos**, grouped into Maps · Companions · Mods · Linux Tools
 - [x] **ForgeBound unpinned** while it matures; **Objective Tracker** (Hytale mod) takes its Library slot
 - [x] **"🎯 Currently" refreshed** to match what's actually on the bench
+- [x] **Library caught up (2026-11-11):** ForgeBound back in with its playable demo, Vein Mining, the four Minecraft Fabric mods, and the Mealient fork under Open Source Work; Highland Song and Spiritfarer version lines bumped
+- [x] **Self-hosted stats cards:** `.github/workflows/stats.yml` regenerates them daily, replacing the paused github-readme-stats service
+- [x] **New avatar:** `> SG▌` terminal monogram with halo and waveform, Tokyo Night palette
 
 ## 🔭 Planned
 
 ### Profile
-- [ ] Keep Library version lines in sync when repos ship
+- [ ] Keep Library version lines (and the badge counts) in sync when repos ship
+- [ ] Re-pick the six pinned repos now that there are 13 (needs the GitHub web UI)
 - [ ] Add the next Library entry (under the right category) when the next project lands
 - [ ] Consider a contact/social section (Twitter, Discord, email)
 
